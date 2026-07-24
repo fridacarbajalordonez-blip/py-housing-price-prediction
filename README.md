@@ -53,7 +53,11 @@ The dataset contains 20,640 observations (instances) and 8 predictor variables (
 
 ## 4. Project Workflow
 
+![workflow1.png](images/workflow1.png)
+Instead of training a single Linear Regression model, this project compares two models trained under different data preparation strategies to evaluate the impact of right-censored observations on predictive performance.
 ## 5. Exploratory Data Analysis
+![correlation_heatmap.png](images/correlation_heatmap.png)
+
 
 ## 6. Data Cleaning Strategy
 
